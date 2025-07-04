@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/../bookmyshow/src/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bookmyshow/src/dao/IMovieDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bookmyshow/src/dao/MovieDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bookmyshow/src/dao/impl/MovieDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bookmyshow/src/dao/impl/UserDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bookmyshow/src/dao/interfaces/IMovieDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bookmyshow/src/dao/interfaces/IUserDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bookmyshow/src/enums/Genre.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bookmyshow/src/enums/Language.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bookmyshow/src/enums/UserRole.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bookmyshow/src/model/Genre.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bookmyshow/src/model/Movie.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bookmyshow/src/model/Person.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bookmyshow/src/model/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bookmyshow/src/model/actors/Person.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bookmyshow/src/model/actors/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bookmyshow/src/service/BookMyShowFacade.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bookmyshow/src/service/ISearchService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bookmyshow/src/service/SearchService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bookmyshow/src/service/impl/SearchService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bookmyshow/src/service/impl/UserService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bookmyshow/src/service/interfaces/ISearchService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bookmyshow/src/service/interfaces/IUserService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/hgw/config-registry/application-prod.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/hgw/consent-manager/consent-cms/consent-cms-adapter/src/main/java/com/dt/cms/adapter/web/PartyPrivacyProfileTypeController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/hgw/consent-manager/consent-cms/consent-cms-adapter/src/test/java/com/dt/cms/adapter/web/PartyPrivacyProfileTypeControllerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/hgw/consent-manager/consent-cms/consent-cms-api/src/main/java/com/dt/cms/api/constant/CmsApiConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/hgw/consent-manager/consent-cms/consent-cms-api/src/main/java/com/dt/cms/api/controller/IPartyPrivacyProfileTypeController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/hgw/consent-manager/consent-cms/consent-cms-core/src/main/java/com/dt/cms/core/port/in/IPartyPrivacyProfileTypeCharacteristicsQuery.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/hgw/consent-manager/consent-cms/consent-cms-core/src/main/java/com/dt/cms/core/port/in/IPartyPrivacyProfileTypeQuery.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/hgw/consent-manager/consent-cms/consent-cms-core/src/main/java/com/dt/cms/core/port/out/IPartyPrivacyProfileTypeCharacteristicsArchivePersistencePort.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/hgw/consent-manager/consent-cms/consent-cms-core/src/main/java/com/dt/cms/core/port/out/IPartyPrivacyProfileTypeCharacteristicsPersistencePort.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/hgw/consent-manager/consent-cms/consent-cms-core/src/main/java/com/dt/cms/core/service/PartyPrivacyProfileTypeService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/hgw/consent-manager/consent-manager-deploy/src/test/java/com/dt/cm/deploy/component/PartyPrivacyProfileTypeComponentIT.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/hgw/hgw-config-registry/api-gateway-zuul-internal-prod.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/hgw/hgw-rdk-adapter/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/hgw/hgw-rdk-adapter/rdk-cujo-parent/rdk-cujo-deploy/src/test/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
